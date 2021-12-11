@@ -129,9 +129,6 @@ function buildCharts(sample) {
     // 2. Create a variable that holds the first sample in the metadata array.
     var filterresult = guagefilter[0];
 
-    // Create variables that hold the otu_ids, otu_labels, and sample_values.
-
-
     // 3. Create a variable that holds the washing frequency.
     var wfrequency = filterresult.wfreq;
     
